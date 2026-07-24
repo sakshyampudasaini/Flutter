@@ -144,6 +144,8 @@ flutter pub get
 ### Run the application
 
 ```bash
+dart run lib/parta.dart
+dart run lib/partb.dart
 flutter run -d chrome -t lib/navigation.dart --release
 flutter run -d chrome -t lib/web_UI.dart --release
 flutter run -d chrome -t lib/animation.dart --release
