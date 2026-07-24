@@ -1,4 +1,9 @@
 # 📱 Flutter Application Development: Concepts, Design, State Management, and Practical Implementation
+<img width="1027" height="700" alt="image" src="https://github.com/user-attachments/assets/d100ae34-0554-4580-8bf8-87ed58f89806" />
+
+<img width="1031" height="700" alt="image" src="https://github.com/user-attachments/assets/aa71c85c-5675-4610-bac1-61cd5731c2b1" />
+
+<img width="1031" height="697" alt="image" src="https://github.com/user-attachments/assets/95b55bbd-4e41-4870-bc07-fca69bf1b9f3" />
 
 A comprehensive Flutter project developed as part of an academic assignment covering the fundamentals of Flutter application development, Dart programming, UI design, state management, navigation, animations, and practical implementation. The project demonstrates both theoretical concepts and hands-on Flutter programming through multiple examples and assignments.
 
@@ -58,7 +63,6 @@ The project also includes practical implementations such as navigation, animatio
 ## 📂 Repository Structure
 
 ```text
-<img width="289" height="586" alt="image" src="https://github.com/user-attachments/assets/e3e65faa-7609-474b-8b97-2cde15c901b1" />
 
 FLUTTER_ASSIGNMENT/
 │
@@ -140,7 +144,12 @@ flutter pub get
 ### Run the application
 
 ```bash
-flutter run
+flutter run -d chrome -t lib/navigation.dart --release
+<img width="645" height="143" alt="image" src="https://github.com/user-attachments/assets/717ef5a8-00c6-46a2-a61f-1dcedd8f5dc6" />
+<img width="671" height="122" alt="image" src="https://github.com/user-attachments/assets/0e32d8e9-e90d-4dc2-b02c-53c6eeda1ebb" />
+
+<img width="612" height="121" alt="image" src="https://github.com/user-attachments/assets/793e73da-3e40-4bf5-9b43-22686f833889" />
+
 ```
 
 ---
