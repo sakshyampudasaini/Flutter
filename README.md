@@ -145,10 +145,9 @@ flutter pub get
 
 ```bash
 flutter run -d chrome -t lib/navigation.dart --release
-<img width="645" height="143" alt="image" src="https://github.com/user-attachments/assets/717ef5a8-00c6-46a2-a61f-1dcedd8f5dc6" />
-<img width="671" height="122" alt="image" src="https://github.com/user-attachments/assets/0e32d8e9-e90d-4dc2-b02c-53c6eeda1ebb" />
+flutter run -d chrome -t lib/web_UI.dart --release
+flutter run -d chrome -t lib/animation.dart --release
 
-<img width="612" height="121" alt="image" src="https://github.com/user-attachments/assets/793e73da-3e40-4bf5-9b43-22686f833889" />
 
 ```
 
